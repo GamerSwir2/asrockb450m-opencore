@@ -1,8 +1,7 @@
 # asrockb450m-opencore
 ONLY FOR BIG SUR!!
 ```Specs:
-Processor: i3 - 5010U
-GPU: Intel HD Graphics 5500
-Ram: 10 GB Ram
-Network Card: Intel Dual-Band (IDK CODENAME works fine with kext)
-```
+Processor: Ryzen 5 3600
+GPU: Radeon RX 6600
+Ram: 16 GB Ram
+Network Card: Tenda U9 USB ADAPTER fixed with``` https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
