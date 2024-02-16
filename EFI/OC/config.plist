@@ -692,24 +692,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>AGPMInjector.kext</string>
-				<key>Comment</key>
-				<string>AGPMInjector.kext</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>AMDUSBMap.kext</string>
 				<key>Comment</key>
 				<string>AMDUSBMap.kext</string>
@@ -1939,7 +1921,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K901310CDFHDD1M</string>
+			<string>C02707130CDJG36A8</string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
@@ -1949,11 +1931,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KY2DZDP7QM</string>
+			<string>C02T8WZ6HX87</string>
 			<key>SystemUUID</key>
-			<string>DBD1E923-0E50-46A6-83C9-A51E3EAD91BF</string>
+			<string>1964B640-E182-41BF-8DF1-D20ADF46BCA8</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
