@@ -970,7 +970,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>wegaAAAA</data>
 				<key>Identifier</key>
@@ -1000,7 +1000,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>wegaAAAA</data>
 				<key>Identifier</key>
@@ -1030,7 +1030,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>wegaAAAA</data>
 				<key>Identifier</key>
@@ -1330,7 +1330,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>MduAPQAAAAAGdQA=</data>
 				<key>Identifier</key>
@@ -1709,7 +1709,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Auto</string>
+			<string>Acidanthera\Chardonnay</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -1765,7 +1765,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1921,21 +1921,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02707130CDJG36A8</string>
+			<string>F5K105701CDK3F78C</string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data>ECf1496m</data>
+			<data>8PYchAjl</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T8WZ6HX87</string>
+			<string>F5KF68Z8P7QM</string>
 			<key>SystemUUID</key>
-			<string>1964B640-E182-41BF-8DF1-D20ADF46BCA8</string>
+			<string>04510E24-7F58-45CD-9BA8-0A21020EAD49</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
