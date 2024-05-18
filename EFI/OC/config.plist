@@ -1921,21 +1921,21 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K105701CDK3F78C</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data>8PYchAjl</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacPro7,1</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>F5KF68Z8P7QM</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>04510E24-7F58-45CD-9BA8-0A21020EAD49</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
