@@ -1919,7 +1919,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K914207GUK3F71H</string>
+                <string></string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1931,11 +1931,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacPro7,1</string>
+                <string></string>
                 <key>SystemSerialNumber</key>
-                <string>F5KYJ1YPP7QM</string>
+                <string></string>
                 <key>SystemUUID</key>
-                <string>37B11245-4CBD-4D9F-A277-4E752F4CD4FC</string>
+                <string></string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
