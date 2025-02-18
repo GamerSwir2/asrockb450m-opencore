@@ -16,6 +16,7 @@
 
 ## Software Compatibility
 
+- Sequoia (15.x)
 - Sonoma (14.x)
 - Ventura (13.x)
 - Monterey (12.x)
@@ -24,7 +25,7 @@
 - Mojave (10.14.x)
 - High Sierra (10.13.x)
 
-**Used OpenCore version**: 0.9.8
+**Used OpenCore version**: 1.0.3
 
 ## Hardware Compatibility
 
